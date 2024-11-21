@@ -6,7 +6,8 @@
     <title>ingredientes de un tamal</title>
 </head>
 <body>
-    h1><img id="imagen3" src="https://cdn.colombia.com/gastronomia/2011/07/27/tamal-tolimense-1527.jpg">
+	<h1>
+    <img id="imagen3" src="https://cdn.colombia.com/gastronomia/2011/07/27/tamal-tolimense-1527.jpg">
 	</h1>
 	<h1 id="titulo3">tamal</h1>
 	<br>
@@ -48,8 +49,10 @@
 	<p>Cocción de los tamales: coloque los tamales en una olla grande con agua hirviendo y cocine a fuego medio-alto durante 2 horas.
         Asegúrese de que los tamales estén bien cubiertos de agua durante toda la cocción.</p>
 	<BR>
-	<p><a id="enlace3" href="">Nueva receta</a></p>
-
+		<ul>
+		<li><p><a id="enlace3" href="/Kennys/recetas/Colombia/ajiaco.html">arroz coco</a></p></li>
+		<li><p><a id="enlace1" href="/Kennys/recetas/Colombia/ajiaco.html">ajiaco</a></p></li>
+		</ul>
     
 </body>
 </html>
